@@ -1,3 +1,4 @@
+import os
 import telebot
 
 BOT_TOKEN = "8335793549:AAGnXk13ImRT6S4yWxuJqJIcqTRERwIMLu0"
